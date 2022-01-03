@@ -1,4 +1,5 @@
 # curtian ting
+### It didn't work and in the end proved impractical. I'm leaving the code and other files up for others to get inspiration from, and see what not to do
 - [curtian ting](#curtian-ting)
   - [the hell is this?](#the-hell-is-this)
   - [Parts](#parts)
